@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.less","<input css 7>"],"names":[],"mappings":"AAAA;EACI,kCAAA;EACA,uBAAA;CCCH;ADHD;EAIQ,WAAA;CCEP","file":"to.css","sourcesContent":[null,"body {\n  background: url(1.webp) no-repeat;\n  background-color: pink;\n}\nbody .hello {\n  color: red;\n}\n/*# sourceMappingURL=./index.css.map */"]}
