@@ -1,0 +1,13 @@
+
+body{
+    background:url('./images/longmao.webp')  ;
+    /* background-color: skyblue; */
+    
+}
+.hello {
+    color: orange;
+    font-size: 50px;
+    font-weight: 700;
+    background-color: #fff;
+    
+  }
